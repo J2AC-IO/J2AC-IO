@@ -1,6 +1,17 @@
 # 💫 About Me:
 Sempre fui uma pessoa extremamente curiosa, fascinada em saber o porque das coisas funcionarem de tal forma. O que mais me despertava e ainda desperta interesse é na compreensão, na execução de tal ferramenta do que propriamente na sua usabilidade. <br>Já ouvi muito sobre a mentalidade de um hacker estar justamente em imaginar como tal coisa funciona, do que em realmente tentar burlar algo. risos<br><br>Sou um verdadeiro amante da tecnologia, tudo que envolve tec eu mergulho. Tenho sede de conhecimento e não fico preso em barreiras. Acredito na minha capacidade em fazer eu quiser e aprender tudo que necessito, por isso estou em constante evolução. <br>Meus principais hobbies são: Viajar, programar, estudar, ler e criar!<br><br>O dia em que eu puder viver apenas trabalhando com hardwares e programação será a fase em que eu estarei realizado!
 
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?J2AC-IO=anuraghazra&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?J2AC-IO=anuraghazra&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?J2AC-IO=anuraghazra&show_icons=true" />
+</picture>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/j2ac.io) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jonathan-carvalho-1725a7237/) 
