@@ -2,7 +2,7 @@
 Sempre fui uma pessoa extremamente curiosa, fascinada em saber o porque das coisas funcionarem de tal forma. O que mais me despertava e ainda desperta interesse é na compreensão, na execução de tal ferramenta do que propriamente na sua usabilidade. <br>Já ouvi muito sobre a mentalidade de um hacker estar justamente em imaginar como tal coisa funciona, do que em realmente tentar burlar algo. risos<br><br>Sou um verdadeiro amante da tecnologia, tudo que envolve tec eu mergulho. Tenho sede de conhecimento e não fico preso em barreiras. Acredito na minha capacidade em fazer eu quiser e aprender tudo que necessito, por isso estou em constante evolução. <br>Meus principais hobbies são: Viajar, programar, estudar, ler e criar!<br><br>O dia em que eu puder viver apenas trabalhando com hardwares e programação será a fase em que eu estarei realizado!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/J2AC-IO&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/J2AC-IOanuraghazra&repo=convoychat" />
