@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sempre fui uma pessoa extremamente curiosa, fascinada em saber o porque das coisas funcionarem. O que mais desperta interesse é no processo e não no resultado final. <br>Sou um verdadeiro amante da tecnologia, e consumo tudo relacionado. Tenho sede de conhecimento e não fico preso em barreiras. Acredito na minha capacidade em fazer o que eu quiser, por isso estou em constante evolução. <br> O dia em que eu puder viver apenas trabalhando com hardwares e programação, estarei completamente em casa. 
+I've always been an extremely curious person, fascinated to know why things work. What is most interesting is the process and not the end result. <br>I'm a true technology lover, and I consume everything related. I have a thirst for knowledge and I don't get stuck in barriers. I believe in my ability to do what I want, so I'm constantly evolving. <br> The day I can make a living just working with hardware and programming, I'll be completely at home.
 
 # 📊 GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=J2AC-IO&show_icons=true&theme=radical)
