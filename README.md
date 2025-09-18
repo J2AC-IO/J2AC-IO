@@ -1,4 +1,3 @@
-<!--
 **MdNadeemSarwar/MdNadeemSarwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,7 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 # 💫 About Me:
 I've always been an extremely curious person, fascinated to know why things work. What is most interesting is the process and not the end result. <br>I'm a true technology lover, and I consume everything related. I have a thirst for knowledge and I don't get stuck in barriers. I believe in my ability to do what I want, so I'm constantly evolving. <br> The day I can make a living just working with hardware and programming, I'll be completely at home.
